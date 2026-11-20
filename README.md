@@ -1,4 +1,4 @@
-# RNNoise4Unity
+# Signed RNNoise4Unity
 
 Unity UPM package for RNNoise audio denoising. Includes native libraries for Android, iOS and Windows.
 
