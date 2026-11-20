@@ -15,14 +15,14 @@ Ensure you have the NPM registry in the `packages.json` file of your Unity proje
         "url": "https://registry.npmjs.org",
         "scopes": [
             "com.npmjs",
-            "com.adrenak.rnnoise4unity"
+            "com.auraldreaming.rnnoise4unity"
         ]
     }
 }
 ```
 
 Add `"com.adrenak.rnnoise4unity" : "x.y.z"` to `dependencies` list in `packages.json` file where `x.y.z` is the version name.  
-💬 You can see the versions on the NPM page [here](https://www.npmjs.com/package/com.adrenak.rnnoise4unity?activeTab=versions).  
+💬 You can see the versions on the NPM page [here](https://www.npmjs.com/package/com.auraldreaming.rnnoise4unity?activeTab=versions).  
 
 # License
 BSD 3-Clause
